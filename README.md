@@ -6,7 +6,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">  
-![TUntitled-1](https://github.com/user-attachments/assets/63acff33-fb8a-4093-b425-347c2839562e)
+![4375066_logo_sass_icon](https://github.com/user-attachments/assets/e94fc1a5-957d-44d9-877e-7c8d6d0cb99c)
+![TUntitled-1](https://github.com/user-attachments/assets/63acff33-fb8a-4093-b425-347c2839562e) 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
