@@ -4,8 +4,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">  
+<h3 align="left">Languages and Tools:</h3> 
 ![4375066_logo_sass_icon](https://github.com/user-attachments/assets/e94fc1a5-957d-44d9-877e-7c8d6d0cb99c)
 ![TUntitled-1](https://github.com/user-attachments/assets/63acff33-fb8a-4093-b425-347c2839562e) 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -18,8 +17,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
 
 </td><td valign="top" width="33%">
 
