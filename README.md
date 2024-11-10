@@ -1,8 +1,6 @@
-## Hey there! Glad to see you 
-
-<h1 align="center">Contact me:</h3>
-<p align="left">
-</p>
+<div align="center">
+<img style="height: 5rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Welcome!.svg" alt="Welcome!"/><br><br>
+</div>
 
 <hr>
 <div align="center">
