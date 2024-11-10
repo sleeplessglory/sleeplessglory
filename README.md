@@ -1,11 +1,6 @@
 <div align="center">
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Welcome!.svg" alt="Welcome!"/><hr>
 </div>
-<div align="center">
-<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Contact-me.svg" alt="Contact me"/>
-
-<hr>
-</div>
 
 <div align="center">
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br>
