@@ -33,7 +33,7 @@
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/2nd.svg" alt="Project 2"/><br>
 </a>
 <a href="https://github.com/sleeplessglory/to-do-list">
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/3rd.svg" alt="Project 3"/>
+<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Project3.svg" alt="Project 3"/>
 </a>
 
 <!--
