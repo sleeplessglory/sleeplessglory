@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">Skills</h1>
+<div align="center">
 <a href="https://react.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
 <a href="https://reactnative.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" title="React Native"/></a>
 <a href="https://www.typescriptlang.org/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/TypeScript.svg" alt="TypeScript" title="TypeScript" /></a>
@@ -23,7 +24,7 @@
 <a href="https://www.adobe.com/products/illustrator.html"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Illustrator.png" alt="Adobe Illustrator" title="Adobe Illustrator" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" /></a>
 <a href="https://www.mysql.com/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a>
-
+</div>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
