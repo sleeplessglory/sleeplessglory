@@ -23,7 +23,7 @@
 <a href="https://www.mysql.com/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a><hr>
 </div>
 <div align="center">
-<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/About me.svg" alt="About me"/><hr>
+<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/About-me.svg" alt="About me"/><hr>
 </div>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
