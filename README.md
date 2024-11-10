@@ -1,7 +1,6 @@
 <div align="center">
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Welcome!.svg" alt="Welcome!"/><hr>
 </div>
-
 <div align="center">
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br>
 <a href="https://react.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
@@ -21,7 +20,10 @@
 <a href="https://www.npmjs.com/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/NPM.svg" alt="NPM" title="NPM" /></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Illustrator.png" alt="Adobe Illustrator" title="Adobe Illustrator" /></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" /></a>
-<a href="https://www.mysql.com/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a>
+<a href="https://www.mysql.com/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a><hr>
+</div>
+<div align="center">
+<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/About me.svg" alt="About me"/><hr>
 </div>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
