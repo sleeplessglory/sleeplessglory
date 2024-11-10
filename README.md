@@ -27,22 +27,22 @@
 </div>
 
 <a href="https://github.com/sleeplessglory/competition-records">
-<div align="center">
-<img style="width: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1Link.svg" alt="Project 1"/>
+
+<img style="width: 26rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1Link.svg" alt="Project 1"/>
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1p.svg" alt="Project 1"/>
-</div>
+
 </a>
 <a href="https://github.com/sleeplessglory/weather-api">
-<div align="center">
+
 <img style="width: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2Link.svg" alt="Project 2"/>
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2p.svg" alt="Project 2"/>
-</div>
+<br><br>
 </a>
 <a href="https://github.com/sleeplessglory/to-do-list">
-<div align="center">
+
 <img style="width: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3Link.svg" alt="Project 3"/>
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3p.svg" alt="Project 3"/>
-</div>
+
 </a>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
