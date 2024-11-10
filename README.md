@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" align="center" alt="Skills"/>
+<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" align="center" alt="Skills" style="height: 5.5rem;"/>
 <div align="center">
 <a href="https://react.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
 <a href="https://reactnative.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" title="React Native"/></a>
