@@ -28,7 +28,7 @@
 
 <a href="https://github.com/sleeplessglory/competition-records">
 <img style="height: 6rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1.svg" alt="Project 1"/>
-<img style="height: 8rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1.png" alt="Project 1"/>
+<div align="center"><img style="height: 14rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1.png" alt="Project 1"/></div>
 </a>
 <a href="https://github.com/sleeplessglory/weather-api">2. Weather API v1.0.0</a>
 <pre>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
