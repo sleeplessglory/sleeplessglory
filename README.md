@@ -4,14 +4,21 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
-![4375066_logo_sass_icon](https://github.com/user-attachments/assets/e94fc1a5-957d-44d9-877e-7c8d6d0cb99c)
-![TUntitled-1](https://github.com/user-attachments/assets/63acff33-fb8a-4093-b425-347c2839562e) 
+<h3 align="left">Skills:</h3> 
+<a href="https://react.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+<a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
