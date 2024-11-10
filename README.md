@@ -4,8 +4,8 @@
 <p align="left">
 </p>
 
-<img style="height: 5rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" align="center" alt="Skills"/>
 <div align="center">
+<img style="height: 4.5rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" align="center" alt="Skills"/>
 <a href="https://react.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
 <a href="https://reactnative.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" title="React Native"/></a>
 <a href="https://www.typescriptlang.org/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/TypeScript.svg" alt="TypeScript" title="TypeScript" /></a>
