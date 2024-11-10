@@ -28,15 +28,22 @@
 
 <a href="https://github.com/sleeplessglory/competition-records">
 <div align="center">
-<img style="height: 6rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1.svg" alt="Project 1"/>
+<img style="height: 6rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1Link.svg" alt="Project 1"/>
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1p.svg" alt="Project 1"/>
 </div>
 </a>
-<a href="https://github.com/sleeplessglory/weather-api">2. Weather API v1.0.0</a>
-<pre>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
-Enable your VPN for a stable connection!</pre>
-<a href="https://github.com/sleeplessglory/to-do-list">3. To-do list v1.0.0</a>
-<p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
+<a href="https://github.com/sleeplessglory/weather-api">
+<div align="center">
+<img style="height: 6rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2Link.svg" alt="Project 2"/>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2p.svg" alt="Project 2"/>
+</div>
+</a>
+<a href="https://github.com/sleeplessglory/to-do-list">
+<div align="center">
+<img style="height: 6rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3Link.svg" alt="Project 3"/>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3p.svg" alt="Project 3"/>
+</div>
+</a>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
