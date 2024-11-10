@@ -28,18 +28,13 @@
 
 <div align="center">
 <a href="https://github.com/sleeplessglory/competition-records">
-<img style="width: 26rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1Link.svg" alt="Project 1"/><br>
-<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1p.svg" alt="Project 1"/>
-<br><br>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P1.svg" alt="Project 1"/><br>
 </a>
 <a href="https://github.com/sleeplessglory/weather-api">
-<img style="width: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2Link.svg" alt="Project 2"/><br>
-<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2p.svg" alt="Project 2"/>
-<br><br>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P2.svg" alt="Project 2"/><br>
 </a>
 <a href="https://github.com/sleeplessglory/to-do-list">
-<img style="width: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3Link.svg" alt="Project 3"/><br>
-<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3p.svg" alt="Project 3"/>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/P3.svg" alt="Project 3"/>
 </a>
 </div>
 <!--
