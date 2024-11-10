@@ -28,10 +28,10 @@
 <div align="center">
 <a href="https://github.com/sleeplessglory/competition-records">
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Competition-records.svg" alt="Competition records" title="Competition records"/>
-</a><br><br>
+</a><br>
 <a href="https://github.com/sleeplessglory/weather-api">
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Weather-API.svg" alt="Weather API" title="Weather API"/>
-</a><br><br>
+</a><br>
 <a href="https://github.com/sleeplessglory/to-do-list">
 <img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/To-do-list.svg" alt="To do list" title="To do list"/>
 </a>
