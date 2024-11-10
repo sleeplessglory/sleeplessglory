@@ -5,8 +5,8 @@
 </p>
 
 <h3 align="left">Skills:</h3> 
-<a href="https://react.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.jpeg" alt="React Native" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
+<a href="https://reactnative.dev/" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" /></a>
 <a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
 <a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
 <a href="" target="_blank"><img style="margin: 1.5rem; height: 4rem" src="" alt="" /></a>
