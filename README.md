@@ -6,7 +6,7 @@
 
 <hr>
 <div align="center">
-<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br><br>
+<img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br>
 <a href="https://react.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
 <a href="https://reactnative.dev/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" title="React Native"/></a>
 <a href="https://www.typescriptlang.org/"><img style="margin: 1.5rem; height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/TypeScript.svg" alt="TypeScript" title="TypeScript" /></a>
