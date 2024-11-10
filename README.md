@@ -28,8 +28,8 @@
 <a href="https://github.com/sleeplessglory/competition-records">1. Competition records v1.0.0</a>
 <p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
 <a href="https://github.com/sleeplessglory/weather-api">2. Weather API v1.0.0</a>
-<p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
-<p>Enable your VPN for a stable connection!</p>
+<pre>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
+Enable your VPN for a stable connection!</pre>
 <a href="https://github.com/sleeplessglory/to-do-list">3. To-do list v1.0.0</a>
 <p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
 <!--
