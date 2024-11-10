@@ -26,7 +26,6 @@
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Portfolio.svg" alt="Portfolio"/><br><br>
 </div>
 
-<div align="center">
 <a href="https://github.com/sleeplessglory/competition-records">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/1st.svg" alt="Project 1"/><br>
 </a>
@@ -36,7 +35,7 @@
 <a href="https://github.com/sleeplessglory/to-do-list">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/3rd.svg" alt="Project 3"/>
 </a>
-</div>
+
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
