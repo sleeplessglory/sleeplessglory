@@ -27,13 +27,13 @@
 </div>
 
 <a href="https://github.com/sleeplessglory/competition-records">
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/1st.svg" alt="Project 1"/><br>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Competition-records.svg" alt="Competition records" title="Competition records"/><br>
 </a>
 <a href="https://github.com/sleeplessglory/weather-api">
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/2nd.svg" alt="Project 2"/><br>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Weather-API.svg" alt="Weather API" title="Weather API"/><br>
 </a>
 <a href="https://github.com/sleeplessglory/to-do-list">
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Project3.svg" alt="Project 3"/>
+<img style="height: 24rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/To-do-list.svg" alt="To do list" title="To do list"/>
 </a>
 
 <!--
