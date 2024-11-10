@@ -1,5 +1,5 @@
 <div align="center">
-<img style="height: 5rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Welcome!.svg" alt="Welcome!"/><br><br>
+<img style="height: 4,5rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Welcome!.svg" alt="Welcome!"/><hr>
 </div>
 
 <hr>
