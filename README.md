@@ -26,12 +26,12 @@
 <img style="height: 4rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Portfolio.svg" alt="Portfolio"/>
 </div>
 <a href="https://github.com/sleeplessglory/competition-records">1. Competition records v1.0.0</a>
-React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
+<p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
 <a href="https://github.com/sleeplessglory/weather-api">2. Weather API v1.0.0</a>
-React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
-Enable your VPN for a stable connection!
+<p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
+<p>Enable your VPN for a stable connection!</p>
 <a href="https://github.com/sleeplessglory/to-do-list">3. To-do list v1.0.0</a>
-React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm
+<p>React, Cypress, Vite, JSDoc, JavaScript, SCSS + BEM, CSS, HTML, Git, npm</p>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
