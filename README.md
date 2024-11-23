@@ -8,7 +8,7 @@
 <a href="https://www.typescriptlang.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/TypeScript.svg" alt="TypeScript" title="TypeScript" /></a>
 <a href="https://webpack.js.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Webpack.svg" alt="Webpack" title="Webpack" /></a>
 <a href="https://www.docker.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Docker.png" alt="Docker" title="Docker" /></a>
-<!--<a href="https://jestjs.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Jest.svg" alt="Jest" title="Jest" /></a>-->
+<a href="https://jestjs.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Jest.svg" alt="Jest" title="Jest" /></a>
 <a href="https://www.cypress.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Cypress.svg" alt="Cypress" title="Cypress" /></a>
 <a href="https://sass-lang.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/SASS.svg" alt="SASS/SCSS" title="SASS/SCSS" /></a>
 <a href="https://en.bem.info/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/BEM.svg" alt="BEM" title="BEM" /></a>
