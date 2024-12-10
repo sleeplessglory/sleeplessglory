@@ -3,11 +3,16 @@
 </div>
 <div align="center">
 <img style="height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br>
+<a href="https://en.wikipedia.org/wiki/DevOps/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/DevOps.svg" alt="DevOps" title="DevOps" /></a>
+<a href="https://www.docker.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Docker.png" alt="Docker" title="Docker" /></a>
+<a href="https://www.linux.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Linux.svg" alt="Linux" title="Linux" /></a>
+<a href="https://about.gitlab.com"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/GitLab.svg" alt="GitLab" title="GitLab" /></a>
+<a href="https://www.postgresql.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/PostgreSQL.svg" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://www.python.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Python.svg" alt="Python" title="Python" /></a>
 <a href="https://react.dev/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React.png" alt="React" title="React" /></a>
 <!--<a href="https://reactnative.dev/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/React-Native.svg" alt="React Native" title="React Native"/></a>-->
 <a href="https://www.typescriptlang.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/TypeScript.svg" alt="TypeScript" title="TypeScript" /></a>
 <a href="https://webpack.js.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Webpack.svg" alt="Webpack" title="Webpack" /></a>
-<a href="https://www.docker.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Docker.png" alt="Docker" title="Docker" /></a>
 <a href="https://jestjs.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Jest.svg" alt="Jest" title="Jest" /></a>
 <a href="https://www.cypress.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Cypress.svg" alt="Cypress" title="Cypress" /></a>
 <a href="https://eslint.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Eslint.svg" alt="ESLint" title="Eslint" /></a>
