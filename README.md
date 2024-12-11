@@ -17,6 +17,7 @@
 <a href="https://jestjs.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Jest.svg" alt="Jest" title="Jest" /></a>
 <a href="https://www.cypress.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Cypress.svg" alt="Cypress" title="Cypress" /></a>
 <a href="https://eslint.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Eslint.svg" alt="ESLint" title="Eslint" /></a>
+<a href="https://babeljs.io/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Babel.svg" alt="Babel" title="Babel" /></a>
 <a href="https://sass-lang.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/SASS.svg" alt="SASS/SCSS" title="SASS/SCSS" /></a>
 <a href="https://en.bem.info/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/BEM.svg" alt="BEM" title="BEM" /></a>
 <!--<a href="https://redux.js.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Redux.svg" alt="Redux" title="Redux" /></a>-->
