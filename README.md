@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 <img style="height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Skills.svg" alt="Skills"/><br><br>
-<a href="https://en.wikipedia.org/wiki/DevOps/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/DevOps.svg" alt="DevOps" title="DevOps" /></a>
+<a href="https://en.wikipedia.org/wiki/CI/CD"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/CI-CD.svg" alt="CI/CD" title="CI/CD" /></a>
 <a href="https://www.docker.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Docker.png" alt="Docker" title="Docker" /></a>
 <a href="https://www.linux.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Linux.svg" alt="Linux" title="Linux" /></a>
 <a href="https://about.gitlab.com"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/GitLab.svg" alt="GitLab" title="GitLab" /></a>
