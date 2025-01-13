@@ -32,13 +32,17 @@
 <a href="https://git-scm.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Git-Bash.svg" alt="Git Bash" title="Git Bash" /></a>
 <a href="https://www.npmjs.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/NPM.svg" alt="NPM" title="NPM" /></a>
 <a href="https://www.adobe.com/products/illustrator.html"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Illustrator.png" alt="Adobe Illustrator" title="Adobe Illustrator" /></a>
-<a href="https://www.adobe.com/products/photoshop.html"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" /></a><hr>-->
+<a href="https://www.adobe.com/products/photoshop.html"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Adobe-Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" /></a>--><hr>
 </div>
 <div align="center">
 <img style="height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Portfolio.svg" alt="Portfolio"/><br><br>
 </div>
 <div align="center">
-<a href="https://github.com/sleeplessglory/competition-records">
+<a href="https://github.com/sleeplessglory/speech-audiometry">
+<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Architecture-1.svg" alt="Architecture of the digital platform system with speech audiometry" title="Architecture of a digital platform system with speech audiometry"/>
+</a><br><br>
+<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Architecture-2.svg" alt="Architecture of the music analytics web service system" title="Architecture of the music analytics web service system"/>
+<!--<a href="https://github.com/sleeplessglory/competition-records">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Competition-records.svg" alt="Competition records" title="Competition records"/>
 </a><br><br>
 <a href="https://github.com/sleeplessglory/weather-api">
@@ -46,7 +50,7 @@
 </a><br><br>
 <a href="https://github.com/sleeplessglory/to-do-list">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/To-do-list.svg" alt="To do list" title="To do list"/>
-</a>
+</a>-->
 </div>
 <!--
 **sleeplessglory/sleeplessglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
