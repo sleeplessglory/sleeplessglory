@@ -39,12 +39,12 @@
 </div>
 <div align="center">
 <a href="https://github.com/sleeplessglory/speech-audiometry">
-<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Architecture_speech_audiometry.svg" alt="Architecture of the digital platform system with speech audiometry" title="Architecture of a digital platform system with speech audiometry"/>
+<img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Architecture_speech_audiometry.png" alt="Architecture of the digital platform system with speech audiometry" title="Architecture of a digital platform system with speech audiometry"/>
 </a><br><br>
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Architecture_music.png" alt="Architecture of the music analytics web service system" title="Architecture of the music analytics web service system"/>
 <!--<a href="https://github.com/sleeplessglory/competition-records">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Competition-records.svg" alt="Competition records" title="Competition records"/>
-</a><br><br>
+</a><br>
 <a href="https://github.com/sleeplessglory/weather-api">
 <img src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Weather-API.svg" alt="Weather API" title="Weather API"/>
 </a><br><br>
