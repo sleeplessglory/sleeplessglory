@@ -7,6 +7,7 @@
 <a href="https://airflow.apache.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Airflow.svg" alt="Airflow" title="Airflow" /></a>
 <a href="https://hadoop.apache.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Hadoop.svg" alt="Hadoop" title="Hadoop" /></a>
 <a href="https://www.docker.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Docker.png" alt="Docker" title="Docker" /></a>
+<a href="https://grafana.com"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Grafana.svg" alt="Grafana" title="Grafana" /></a>
 <a href="https://www.python.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Python.svg" alt="Python" title="Python" /></a>
 <a href="https://www.postgresql.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/PostgreSQL.svg" alt="PostgreSQL" title="PostgreSQL" /></a>
 <a href="https://www.mysql.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a>
