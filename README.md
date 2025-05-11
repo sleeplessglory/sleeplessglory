@@ -13,6 +13,7 @@
 <a href="https://www.mysql.com/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/MySQL.png" alt="MySQL" title="MySQL" /></a>
 <a href="https://spark.apache.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Spark.svg" alt="Spark" title="Spark" /></a>
 <a href="https://clickhouse.com"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/ClickHouse.svg" alt="ClickHouse" title="ClickHouse" /></a>
+<a href="https://kafka.apache.org/"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Kafka.svg" alt="Kafka" title="Kafka" /></a>
 <a href="https://about.gitlab.com"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/GitLab.svg" alt="GitLab" title="GitLab" /></a>
 <a href="https://www.linux.org"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Linux.svg" alt="Linux" title="Linux" /></a>
 <a href="https://www.atlassian.com/software/jira"><img style="margin: 1rem; height: 3rem" src="https://github.com/sleeplessglory/sleeplessglory/raw/main/assets/Jira.svg" alt="Jira" title="Jira" /></a>
